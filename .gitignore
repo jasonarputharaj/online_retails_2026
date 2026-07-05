@@ -1,3 +1,5 @@
 node_modules/
 .env
 *.log
+data/raw/*.csv
+data/processed/cleaned_online_retail.csv
